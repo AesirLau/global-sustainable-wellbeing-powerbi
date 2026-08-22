@@ -78,7 +78,7 @@ The findings suggest that improving national well-being may require attention to
 
 ## 📷 Dashboard Preview
 
-![Global Sustainable Well-Being Dashboard](screenshots/dashboard_overview.png)
+![Global Sustainable Well-Being Dashboard](screenshot/dashboard_overview.png)
 
 ---
 
